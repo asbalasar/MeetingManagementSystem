@@ -1,0 +1,17 @@
+tr\org\epdk\toplanti\configuration\AppInitializer.class
+tr\org\epdk\toplanti\service\KullaniciServiceImpl.class
+tr\org\epdk\toplanti\entity\ToplantiOdasi.class
+tr\org\epdk\toplanti\entity\Yetki.class
+tr\org\epdk\toplanti\controller\AppController.class
+tr\org\epdk\toplanti\entity\Birim.class
+tr\org\epdk\toplanti\service\KullaniciService.class
+tr\org\epdk\toplanti\model\Kullanici.class
+tr\org\epdk\toplanti\DAO\KullaniciDAO.class
+tr\org\epdk\toplanti\DAO\AbstractDAO.class
+tr\org\epdk\toplanti\configuration\HibernateConfiguration.class
+tr\org\epdk\toplanti\entity\Rol.class
+tr\org\epdk\toplanti\entity\Kullanici.class
+tr\org\epdk\toplanti\entity\BaseEntity.class
+tr\org\epdk\toplanti\configuration\AppConfig.class
+tr\org\epdk\toplanti\DAO\KullaniciDAOImpl.class
+tr\org\epdk\toplanti\entity\Toplanti.class
